@@ -4,6 +4,7 @@ langchain-openai
 langchain-community
 sentence-transformers
 faiss-cpu
+langchain-huggingface
 
 # OpenAI LLM
 openai
