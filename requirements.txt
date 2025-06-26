@@ -1,2 +1,32 @@
+# Core ML/RAG
 langchain
+langchain-openai
+langchain-community
+sentence-transformers
+faiss-cpu
+
+# OpenAI LLM
 openai
+
+# Data Science
+pandas
+numpy
+scikit-learn
+
+# Web UI
+streamlit
+
+# PDF/IO (if needed for doc uploads)
+pypdf
+
+# HuggingFace for models
+transformers
+huggingface-hub
+
+# (Optional) for dev, not needed in production
+# jupyter
+# ipykernel
+# black
+# flake8
+# pytest
+
